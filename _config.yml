@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 theme: bulma-clean-theme
 
 # Name of your site (displayed in the header)
